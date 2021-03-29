@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Task description:
+
+https://github.com/rolling-scopes-school/tasks/blob/master/tasks/songbird.md
+
+## Link to the Demo:
+
+https://youthful-poitras-b2d3ce.netlify.app/
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
